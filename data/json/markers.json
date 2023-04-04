@@ -1,0 +1,241 @@
+[
+  {
+    "type": "camping",
+    "title": "Geo Parc",
+    "desc": "Le géoparc de Percé est une aire géologique située en Gaspésie–Îles-de-la-Madeleine au Québec. Il a été labellisé comme géoparc mondial de l'UNESCO en 2018 devenant ainsi le premier site au Québec à obtenir cette reconnaissance.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/geo-parc.jpg",
+    "link": "https://geoparcdeperce.com/",
+    "point": [48.52315, -64.21694]
+  },
+  {
+    "type": "restaurant",
+    "title": "La Maison du Pêcheur",
+    "desc": "On y déguste des fruits de mer succulents et des plats variés. Les vues magnifiques sur le port de Perce font de ce restaurant un endroit idéal pour manger.Un cadre charmant et des plats délicieux font de La Maison du Pêcheur un endroit incontournable.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/restaurant-la-maison.jpg",
+    "link": "https://www.maisondupecheur.ca/",
+    "point": [48.52126, -64.21377]
+  },
+  {
+    "type": "restaurant",
+    "title": "Buvette Thérèse",
+    "desc": "Sur la plage, la buvette offre une vue incroyable. On y déguste des fruits de mer frais et des boissons rafraîchissantes. Une atmosphère chaleureuse invite à la détente.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/buvette-therese.jpg",
+    "link": "https://www.buvettetherese.com/",
+    "point": [48.5216, -64.21486]
+  },
+  {
+    "type": "restaurant",
+    "title": "Restaurant Paqbo",
+    "desc": "Le Paqbo à Percé, est un restaurant familial très charmant, offrant des mets délicieux et une vue imprenable sur la mer.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/paqbo.webp",
+    "link": "https://www.riotel.com/fr/hotels/perce/restaurant-paqbo/",
+    "point": [48.5163, -64.21845]
+  },
+  {
+    "type": "poi",
+    "title": "Église de Percé",
+    "desc": "L'église de Saint-Michel-de-Percé est un joyau de la région. Son architecture imposante, ses belles couleurs et ses fresques émouvantes ont été une source d'inspiration pour les artistes. Une visite à cette église est un plaisir pour tous.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/saint-michel.jpg",
+    "link": "https://perce.info/en/directory/st-michel-catholic-church-of-perce/",
+    "point": [48.52599, -64.21633]
+  },
+  {
+    "type": "poi",
+    "title": "Rocher Percé",
+    "desc": "Le Rocher Perce est un site merveilleux. Il se trouve au Québec et offre une vue spectaculaire sur la mer. Une beauté naturelle à couper le souffle.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/rocher.jpg",
+    "point": [48.5237, -64.1991]
+  },
+  {
+    "type": "hiking",
+    "title": "Mont St-Anne",
+    "desc": "Le sentier du Mont Ste-Anne à Percé, Québec est un sentier de randonnée pédestre idéal pour tous niveaux. Il offre une vue magnifique sur la nature et la mer. Une expérience inoubliable.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/mont-st-anne.jpg",
+    "link": "https://perce.info/en/directory/sentiers-mont-ste-anne-et-mont-blanc-geoparc-de-perce/",
+    "point": [48.5211, -64.2353]
+  },
+  {
+    "type": "hiking",
+    "title": "Sentier de la grotte",
+    "desc": "Le sentier de la Grotte à Percé, Québec, offre une expérience unique et mémorable. Les sentiers sont entourés de magnifiques paysages et d'une vue sur la mer. Les visiteurs peuvent explorer la grotte et ses merveilles, y compris des stalactites et des stalagmites.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/la-grotte.jpg",
+    "link": "https://perce.info/en/directory/sentiers-mont-ste-anne-et-mont-blanc-geoparc-de-perce/",
+    "point": [48.5263, -64.2335]
+  },
+  {
+    "type": "hiking",
+    "title": "Mont Blanc",
+    "desc": "Le sentier du Mont-Blanc à Percé est un sentier de randonnée spectaculaire offrant des vues magnifiques sur l'océan et les montagnes. Il a une longueur de 5,5 km et une altitude de 585 mètres.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/mont-blanc.jpg",
+    "link": "https://perce.info/en/directory/sentiers-mont-ste-anne-et-mont-blanc-geoparc-de-perce/",
+    "point": [48.527, -64.2432]
+  },
+  {
+    "type": "hiking",
+    "title": "Île Bonaventure",
+    "desc": "Quatre sentiers, totalisant 15 km, vous permettent de vous imprégner de l'atmosphère envoûtante du secteur Île-Bonaventure. Jamais très loin de la mer, ils vous feront découvrir les prairies, les champs, la forêt de conifères et... l'impressionnante colonie de fous de Bassan.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/bonaventure.jpg",
+    "link": "https://www.sepaq.com/pq/bon/index.dot?language_id=2",
+    "point": [48.4953, -64.1615]
+  },
+  {
+    "type": "hiking",
+    "title": "Mont Vallières-de-Saint-Réal",
+    "desc": "Explorez ce sentier aller-retour de 11,7 km près de Sainte-Anne-des-Monts, au Québec. Généralement considéré comme un parcours difficile, il faut en moyenne 5 h 21 min pour le parcours. C'est une région très populaire pour l'observation des oiseaux et la raquette, vous rencontrerez donc probablement d'autres personnes lors de vos explorations.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/valiere.jpg",
+    "link": "https://www.alltrails.com/trail/canada/quebec/mont-vallieres-de-saint-real",
+    "point": [48.8403, -65.2409]
+  },
+  {
+    "type": "hiking",
+    "title": "La petite chapelle de Saint-Isidore",
+    "desc": "Longueur -  choix de 6 sentiers possibles avec des longueurs de 0.5 km à 3 km. La façon dont les sentiers sont positionnés offre la chance de faire des distances en boucles de 3.2 km à 5.2 km. ",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/st-isidore.JPG",
+    "link": "https://www.onvasepromener.ca/les-endroits/la-petite-chapelle",
+    "point": [48.5039, -64.4736]
+  },
+  {
+    "type": "hiking",
+    "title": "Sentier des Rivières",
+    "desc": "Ce réseau compte deux sentiers qui se rejoignent à L'Anse-à-Beaufils pour former un parcours linéaire de 41 km. Grâce aux nombreux points d'accès, il est possible de choisir le secteur et la distance que l'on veut parcourir.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/sentier-riviere.jpg",
+    "link": "https://baliseqc.ca/3S/explorer/gaspesie/sentiers-des-rivieres-et-des-montagnes-LR0867",
+    "point": [48.5764, -64.3075]
+  },
+  {
+    "type": "hiking",
+    "title": "Riviere Grand Pabos",
+    "desc": "Les trois rivières Pabos offrent aux saumoniers un total de 11 secteurs de pêche, 5 d’entre eux étant à accès contingenté et tous étant accessibles par sentier pédestre, et de 91 fosses. Outre le saumon atlantique, on trouve, dans les trois rivières Pabos, parmi les espèces les plus fréquentes, de la truite de mer au poids variant de 1,4 à 2,7 kilogrammes.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/Pabos.jpg",
+    "link": "https://3rivierespabos.com/",
+    "point": [48.4602, -64.4032]
+  },
+  {
+    "type": "poi",
+    "title": "Parc national Forillon",
+    "desc": "L'église de Saint-Michel-de-Percé est un joyau de la région. Son architecture imposante, ses belles couleurs et ses fresques émouvantes ont été une source d'inspiration pour les artistes. Une visite à cette église est un plaisir pour tous.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/forillon.jpg",
+    "link": "https://parcs.canada.ca/pn-np/qc/forillon",
+    "point": [48.8168, -64.2467]
+  },
+  {
+    "type": "poi",
+    "title": "Club de golf Fort Prével",
+    "desc": "Fort-Prével CAMPING, CHALET, AUBERGE, GOLF SUR MER SITUÉ ENTRE GASPÉ ET PERCÉ EN GASPÉSIE, FORT-PRÉVEL EST VOTRE DESTINATION IDÉALE POUR RELAXER EN FAMILLE OU POUR ORGANISER VOS RÉUNIONS",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/golf.png",
+    "link": "https://fortprevel.com/",
+    "point": [48.8168, -64.2467]
+  },
+  {
+    "type": "restaurant",
+    "title": "Chez Ron",
+    "desc": "Meilleurs petits déjeuners en ville! Ouvert Lundi-Dimanche jusqu'à 20h00Beaucoups de nouveautés!",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/chez-ron.jpg",
+    "link": "https://www.facebook.com/restaurantchezron/",
+    "point": [48.7093, -64.2741]
+  },
+  {
+    "type": "restaurant",
+    "title": "Resto à Margaulx",
+    "desc": "Soupe, salade et sandwich.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/margaulx.jpg",
+    "link": "https://perce.info/repertoire/casse-croute-le-resto-des-margault/",
+    "point": [48.5056, -64.1682]
+  },
+  {
+    "type": "restaurant",
+    "title": "Restaurant La Maison Mathilde",
+    "desc": "Imprégnée de saveurs gaspésiennes, La Maison Mathilde vous accueille dans un cadre élégant et chaleureux afin de partager un moment de bonheur et de réconfort.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/mathilde.jpg",
+    "link": "https://lamaisonmathilde.com/",
+    "point": [48.5322, -64.2214]
+  },
+  {
+    "type": "poi",
+    "title": "Phare du Cap d'Espoir",
+    "desc": "Laissez-vous bercer par le chant des vagues dans les lieux magiques du phare de Cap-d'Espoir. Situé au bout d'une pointe s'avançant dans la mer à plus d'un kilomètre de la route 132, notre site unique vous charmera par sa beauté et sa tranquillité.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/phare-cap.jpg",
+    "link": "https://www.maisonsduphare.com/phare-cap-d-espoir.php",
+    "point": [48.4215, -64.3229]
+  },
+  {
+    "type": "poi",
+    "title": "Cap Mont Joli",
+    "desc": "Depuis 1965, l’Héritage assure la préservation de quatre bâtiments patrimoniaux situés sur le cap Mont-Joli, tout près du Rocher-Percé. Ce lieu emblématique du Québec a été décrété site patrimonial de Percé en 1973. Surplombant la mer, il offre une vue imprenable sur le Rocher-Percé et l’île Bonaventure.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/mont-joli.jpg",
+    "link": "https://hcq-chq.org/site-patrimonial-de-perce/",
+    "point": [48.5252, -64.2062]
+  },
+  {
+    "type": "poi",
+    "title": "Plateforme Vitrée Suspendue",
+    "desc": "La plateforme vitrée suspendue en porte-à-faux dans une falaise du Mont Ste-Anne est un projet ambitieux qui s’est concrétisé au début du projet, à l’automne 2016. L’ouverture officielle et l’accès aux randonneurs a eu lieu en juin 2017.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/platform-vitre.jpg",
+    "link": "https://geoparcdeperce.com/portfolio/plateforme-vitree-suspendue/",
+    "point": [48.5238, -64.2247]
+  },
+  {
+    "type": "hiking",
+    "title": "Parc municipal de la Rivière Émeraude",
+    "desc": "Le parc de la Rivière Émeraude est un site naturel aux abords de la Rivière du Portage, on y retrouve une cascade d’eau qui se jette dans un magnifique bassin naturel aux reflets vert émeraude. Ce site est situé dans le secteur de Bridgeville (à 12 km du village de Percé en direction de Gaspé).",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/riviere-emeraude.jpg",
+    "link": "https://perce.info/repertoire/parc-municipal-de-la-riviere-emeraude/",
+    "point": [48.5793, -64.3456]
+  },
+  {
+    "type": "poi",
+    "title": "Griffon Aventure Canyoning",
+    "desc": "Le Canyonisme, c’est comme des glissades d’eau mais en nature ! Notre activité consiste à parcourir un cours d’eau accidenté en randonnée, à la nage ou en glissant. Le parcours, forgé par des milliers d’années d’écoulement des eaux vous en offrira pour tous les goûts.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/griffon.JPG",
+    "link": "https://www.aubergegaspe.com/activites/canyonisme-canyoning/",
+    "point": [48.777, -64.4554]
+  },
+  {
+    "type": "poi",
+    "title": "Cap Aventure - Plage de Cap-aux-Os",
+    "desc": "Située en Gaspésie dans un milieu naturel exceptionnel, là où la mer rejoint les montagnes, Cap Aventure est un intervenant privilégié pour les excursions en mer au Québec.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/cap-os.jpg",
+    "link": "https://capaventure.net/?utm_source=GMB&utm_medium=Organic&utm_campaign=GMBcapauxos",
+    "point": [48.8376, -64.3407]
+  },
+  {
+    "type": "poi",
+    "title": "Manoir Le Boutillier",
+    "desc": "Situé à l’Anse-au-Griffon, tout près du Parc National Forillon, et à 30 minutes de la Ville de Gaspé, le Manoir Le Boutillier est aujourd’hui arrêt incontournable pour quiconque désire enrichir sa culture et ses connaissances sur l’histoire de la Gaspésie.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/manoir-boutiller.jpg",
+    "link": "https://manoirleboutillier.ca/",
+    "point": [48.9951, -64.3874]
+  },
+  {
+    "type": "restaurant",
+    "title": "Restaurant de la Normandie",
+    "desc": "L'hôtel La Normandie de Percé est l'endroit tout désigné pour un rendez-vous exclusif avec la mer et la table dans un hôtel de charme et dans un décor de carte postale. L'établissement est situé au coeur du village de Percé en Gaspésie, sur un site d'une beauté exceptionnelle.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/normandie.jpg",
+    "link": "https://www.normandieperce.com/restaurant/menu-du-soir/",
+    "point": [48.5194, -64.2159]
+  },
+  {
+    "type": "restaurant",
+    "title": "Le Café des Couleurs",
+    "desc": "Le Café des Couleurs est un restaurant familial ouvert durant la saison estivale. Pauline Thibodeau et son équipe vous accueillent dans une ambiance chaleureuse et créative.",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/cafe-couleur.jpg",
+    "link": "http://www.lecafedescouleurs.com/",
+    "point": [48.6195, -64.274]
+  },
+  {
+    "type": "restaurant",
+    "title": "Bar Laitier Casse Croute La Molliere",
+    "desc": "Bar Laitier, Casse-Croûte, La Mollière, Buanderie libre service",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/la-moliere.jpg",
+    "link": "https://www.facebook.com/lamolliere/",
+    "point": [48.8575, -64.2024]
+  },
+  {
+    "type": "restaurant",
+    "title": "Resto De L'Anse",
+    "desc": "Restaurant De Fruits De Mer dans Percé, Ouverture à 11 h 00",
+    "image": "http://d24ovbg5mfvqtc.cloudfront.net/resto-de-lanse.JPG",
+    "link": "https://restodelanse.business.site/",
+    "point": [48.4778, -64.3027]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "type": {
+      "service": "Eau-electricite-egouts",
+      "amp": 10,
+      "length": [10, 10],
+      "sun": "Plein soleil"
+    },
+    "booking": [],
+    "price": 30,
+    "position": [48.52159, -64.21743]
+  },
+  {
+    "id": "2",
+    "type": {
+      "service": "Eau-seulement",
+      "amp": 20,
+      "length": [15, 8],
+      "sun": "Ombragé"
+    },
+    "booking": [],
+    "price": 30,
+    "position": [48.52177, -64.21754]
+  },
+  {
+    "id": "3",
+    "type": {
+      "service": "Eau-electricite",
+      "amp": 30,
+      "length": [15, 25],
+      "sun": "Mi-ombre"
+    },
+    "booking": [],
+    "price": 30,
+    "position": [48.52211, -64.21775]
+  },
+  {
+    "id": "4",
+    "type": {
+      "service": "Eau-seulement",
+      "amp": 40,
+      "length": [12, 35],
+      "sun": "Plein soleil"
+    },
+    "booking": [],
+    "price": 30,
+    "position": [48.52229, -64.21785]
+  },
+  {
+    "id": "5",
+    "type": {
+      "service": "Sans-services",
+      "amp": 50,
+      "length": [18, 45],
+      "sun": "Plein soleil"
+    },
+    "booking": [],
+    "price": 30,
+    "position": [48.52244, -64.21793]
+  }
+]
